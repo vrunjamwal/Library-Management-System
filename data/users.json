@@ -1,0 +1,125 @@
+{
+    "users":[
+  {
+    "id": 1,
+    "firstName": "Arjun",
+    "lastName": "Malhotra",
+    "email": "arjun.malhotra@example.com",
+    "role": "user",
+    "bookIssuedId": 12,
+    "issueDate": "2024-01-10",
+    "returnDate": "2024-01-25",
+    "subscriptionType": "monthly",
+    "subscriptionDate": "2023-12-01"
+  },
+  {
+    "id": 2,
+    "firstName": "Priya",
+    "lastName": "Sharma",
+    "email": "priya.sharma@example.com",
+    "role": "admin",
+    "bookIssuedId": null,
+    "issueDate": null,
+    "returnDate": null,
+    "subscriptionType": "yearly",
+    "subscriptionDate": "2023-03-05"
+  },
+  {
+    "id": 3,
+    "firstName": "Rohan",
+    "lastName": "Verma",
+    "email": "rohan.verma@example.com",
+    "role": "user",
+    "bookIssuedId": 5,
+    "issueDate": "2024-02-01",
+    "returnDate": "2024-02-17",
+    "subscriptionType": "premium",
+    "subscriptionDate": "2023-09-12"
+  },
+  {
+    "id": 4,
+    "firstName": "Simran",
+    "lastName": "Kaur",
+    "email": "simran.kaur@example.com",
+    "role": "user",
+    "bookIssuedId": 33,
+    "issueDate": "2024-01-22",
+    "returnDate": "2024-02-05",
+    "subscriptionType": "monthly",
+    "subscriptionDate": "2023-12-15"
+  },
+  {
+    "id": 5,
+    "firstName": "Kabir",
+    "lastName": "Singh",
+    "email": "kabir.singh@example.com",
+    "role": "user",
+    "bookIssuedId": null,
+    "issueDate": null,
+    "returnDate": null,
+    "subscriptionType": "yearly",
+    "subscriptionDate": "2022-11-30"
+  },
+  {
+    "id": 6,
+    "firstName": "Neha",
+    "lastName": "Gupta",
+    "email": "neha.gupta@example.com",
+    "role": "user",
+    "bookIssuedId": 18,
+    "issueDate": "2024-02-07",
+    "returnDate": "2024-02-21",
+    "subscriptionType": "premium",
+    "subscriptionDate": "2023-06-18"
+  },
+  {
+    "id": 7,
+    "firstName": "Amit",
+    "lastName": "Patel",
+    "email": "amit.patel@example.com",
+    "role": "user",
+    "bookIssuedId": null,
+    "issueDate": null,
+    "returnDate": null,
+    "subscriptionType": "monthly",
+    "subscriptionDate": "2024-01-05"
+  },
+  {
+    "id": 8,
+    "firstName": "Khushi",
+    "lastName": "Mehra",
+    "email": "khushi.mehra@example.com",
+    "role": "user",
+    "bookIssuedId": 7,
+    "issueDate": "2024-01-12",
+    "returnDate": "2024-01-28",
+    "subscriptionType": "premium",
+    "subscriptionDate": "2023-10-01"
+  },
+  {
+    "id": 9,
+    "firstName": "Vikram",
+    "lastName": "Chauhan",
+    "email": "vikram.chauhan@example.com",
+    "role": "user",
+    "bookIssuedId": 45,
+    "issueDate": "2024-02-03",
+    "returnDate": "2024-02-18",
+    "subscriptionType": "yearly",
+    "subscriptionDate": "2023-05-22"
+  },
+  {
+    "id": 10,
+    "firstName": "Ananya",
+    "lastName": "Rao",
+    "email": "ananya.rao@example.com",
+    "role": "admin",
+    "bookIssuedId": null,
+    "issueDate": null,
+    "returnDate": null,
+    "subscriptionType": "premium",
+    "subscriptionDate": "2023-08-09"
+  }
+]
+
+}

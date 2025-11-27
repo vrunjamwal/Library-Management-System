@@ -1,0 +1,27 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "This is a library management API backend for the management of users and the books",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrunjamwal/Library-Management-System.git"
+  },
+  "author": "Varun Jamwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrunjamwal/Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/vrunjamwal/Library-Management-System#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
